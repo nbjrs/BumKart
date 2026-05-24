@@ -27,6 +27,8 @@ As promised in my project description, I am going to make the steering wheel for
 
 https://lapse.hackclub.com/timelapse/PFCDxZ44ZRmn 
 
-![onshape screenshot](images/raga_wheel.png)
+![onshape screenshot](images/raga_wheel_1.png)
+![onshape screenshot](images/raga_wheel_2.png)
+![onshape screenshot](images/raga_wheel_3.png)
 
 **Total time spent: 1 hour**
