@@ -29,6 +29,4 @@ https://lapse.hackclub.com/timelapse/PFCDxZ44ZRmn
 
 ![onshape screenshot](images/raga_wheel.png)
 
-https://lapse.hackclub.com/timelapse/PFCDxZ44ZRmn 
-
 **Total time spent: 1 hour**
