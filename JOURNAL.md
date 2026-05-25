@@ -66,3 +66,49 @@ https://lapse.hackclub.com/timelapse/_yvn_u09mdmS
 
 **Total time spent: 1 hour 20 minutes**
 
+# May 25: Research + Some CAD
+
+This session wasn't as productive as the last due to a few main issues. My main session todo list was as follows.
+
+Current todo:
+Make custom corner magnets for welding???? (same as in video)
+Start making mounting for the steering support beam for both sides (decide what filament later)
+Need to make a guide 3d print to get the drill press right for the bearing blocks
+Make a screw generator
+Start designing parts for cnc? 
+Possibility of back axle? See how the bolts were welded on in the video
+Watch a video of how FSAE cars are built and see if I can take some inspiration from them. 
+Make a really cool led panel with some name or logo (see images for reference)
+
+I completed the first task fairly quickly and as I already have the magnets I will probably print a few of these later this week. The second task was the main task I worked on for the rest of the time. Most of this session was spent researching other gokarts and some techniques they used. I have slowly started to realize over the course of this build that I am VERY adverse to actually welding as 1) I have never done it before and 2) I don't have easy access to someone who can do it with me. I do have a coach who can help me but it will be tedious to get his help every time I need it (likley). Most of the time was spent watching videos and also thinking about how I could actually physically mount the square beams together without welding (which I think I have some ideas but I am very scared to do. I am still trying to brainstorm the 3d prints I will use for this. I ended this build session with some good CAD work on the first two mounts that are important for the steering, and I think high infill PLA could easily be effective for these parts I made. Gonna work some more later today and still aiming for ~4 hrs a day if possible or a little less. Lapse also seems to have bugged as it only says 32 minutes while I have a screenshot of onshape with 1:20 of editing. I posted it below, I think the error happened as I did leave the lapse going for an extra 5 or so minutes before I forgot so I think when I tried cutting it out I cut the full lapse by a lot. Screenshots below of first edit, last edit, and the full list of edits in between the two for proof.
+
+https://lapse.hackclub.com/timelapse/rKBFdCeo6Z3s 
+
+![repo screenshot](images/first_edit.png)
+
+First edit according to onshape edit history.
+
+![discord screenshot](images/last_edit.png)
+
+Last edit according to onshape edit history.
+
+![docs screenshot](images/overall.png)
+
+Overall edit list from onshape.
+
+![discord screenshot](images/corner_reference.png)
+
+Corner reference image.
+
+![docs screenshot](images/corner_made.png)
+
+3d Cad for my corner made.
+
+![docs screenshot](images/video_watched.png)
+
+Video I watched for some more inspiration.
+
+
+
+**Total time spent: 1 hour 10 minutes**
+
