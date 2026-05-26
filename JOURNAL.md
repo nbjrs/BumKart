@@ -116,5 +116,9 @@ Video I watched for some more inspiration.
 
 Though we actually talked for an hours, I am not going to add it fully because the conversation was interuptted a few times and I'm not even sure stuff like this should be tracked (will ask later). School was back in today so I went over to my FTC coach/engineering professor who has made gokarts before and has lots of welding experience. I showed him my current design and he gave me a lot of good tips. Mainly ideas on how to mount the square beams without welding, however he strongly was opposed to me using 3d prints. He said it was a bad idea and due to the simplicity of the frame we could easily weld it without much effort. I also got to ask him about my motor choice/what he thought about the usage of aluminum extrusion to support the seat (as I want to save cost/steel extrusion as much as possible) and he approved both saying that they were simple and the aluminum should be enough. Going to do a few lapses where I will hopefully start the seat design today.
 
+
+![docs screenshot](images/todo_coach.png)
+todo list and things asked (all of the 3d print stuff rejected almost instantly but that is fair lol)
+
 **Total time spent: 30 minutes**
 
