@@ -122,3 +122,42 @@ todo list and things asked (all of the 3d print stuff rejected almost instantly 
 
 **Total time spent: 30 minutes**
 
+# May 26: BIG PROGRESS Cad session
+
+A lot done here and I am going to keep this journal shorter as I want to sleep early. I brainstormed a ton of new ideas for the kart today, but mainly worked on the CAD. I was able to model out a brake line holder, tie rod connecting plate, an estimated CAD for the pillow block, steering axle, and some 3d printed mounts for supporting the steering axle. The kart is becoming much more defined and I am going to keep brainstorming how the full assembly will come together. At the end of the session I spent around 5-10 minutes brainstorming how a compression-spring brake pedal would work as I want a smooth feel for the pedals on the front. Below was the todo-list for the session and I will say what got done.
+
+Current todo:
+Need to make a guide 3d print to get the drill press right for the bearing blocks
+Start designing parts for cnc? Only really need steel at the end of the shaft
+Research new Shaft
+Design bearing blocks
+Design brake line holder
+Design pedals 
+    Lots of research needed to do this part 3d print
+Make a screw generator (figure out home depot screws)
+Start designing seat and seat movement mechanism
+      Seat will be out of some laser cut panels probably? Maybe similar to that youtube short you watched?
+       Adjusting mechanism along extrusion
+
+Tasks 1-5 were finsished, and 6-8 will hopefully be completed or worked on next session (likley just started but I can only hope lmao). Lapse is below.
+
+https://lapse.hackclub.com/timelapse/rJRCKR5qocof 
+
+![kart screenshot](images/kart_sideview.png)
+
+Side-view of current Kart CAD. New 3d printed mounts visible.
+
+![beam screenshot](images/beam_mount.png)
+
+Beam mount with a 1/4 in steel plate for pillow block support.
+
+![brake screenshot](images/brake_guide.png)
+
+Simple brake line guide based on the inspiration video/not steel laser cut though.
+
+![pedal screenshot](images/pedal_idea.jpeg)
+
+Found a useful reference pedal image and tried to break (funny pun lmao) it down for myself to understand how I could make this work with 3d prints and some springs, going to need to use some aluminum I am guessing to make this rigid enough.
+
+**Total time spent: 1 hour 31 minutes**
+
