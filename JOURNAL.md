@@ -161,3 +161,25 @@ Found a useful reference pedal image and tried to break (funny pun lmao) it down
 
 **Total time spent: 1 hour 31 minutes**
 
+# May 27: Mid School Lock IN
+I guess we do forge in school now? Didn't do as much this session as it was pretty short but mainly made screw geneators and washer generators, using home depot screws and washers as reference. Made it all configurable and then added it to the CAD for accuracy and for confirming that there was no interference in bolts. Found that in the front mount their was interference and fixed it. It also makes the CAD look very nice and more accurate! Lapse below, and only finished the task to make the screw generator (washers added)
+
+https://lapse.hackclub.com/timelapse/3G97GEaR7kho
+
+![inter screenshot](images/key_interference.png)
+
+Interference problem mentioned in the journal.
+
+![fixed screenshot](images/fixed_interference.png)
+
+After fixing interference problem!
+
+![screw screenshot](images/screw_gen.png)
+
+Cool screw gen I made (see onshape and I may make it avaliable but it is only two screw types lol)
+
+**Total time spent: 31 minutes**
+
+
+
+
