@@ -202,6 +202,29 @@ Incomplete pedal design from this session.
 
 **Total time spent: 41 minutes**
 
+# May 27: BRAKE FINISHED GRINDDDDD
+
+I haven't been hitting my personal goals for how much time per day I work on this kart, but today definitely was a good step in the right direction. After chilling at the beach with friends for 5 hrs or so, I came back home and grinded out the break for 1.5 hrs more. This took a lot and I have a lot of steps I took to complete this part of the kart. First off, I wanted to make the pedals very grippy for riding and so your feet don't slip off, as I have done gokarting before and that has been a problem. To solve this, I am going to use my past experience with polyurethane molds and designed a cool looking rubber peice that will be used for extra friciton on the pedals (will decide the color later). I later created a mold which I will use to make the rubber peices, and I actually implemented a new feature!
+
+![inter screenshot](images/mold_fillet.png)
+
+(in text images a new one for me lol) So what I did was make a fillet lip so any excess polyurethane doesn't leak out but rather stays trapped in the mold area. This will be huge as I can also somewhat overfill the mold to make sure there is no dip in the mold later. 
+
+After this I went on to design the most annoying part of this whole pedal system, the aligning spring holders! I used the image in the previous journal (which helped me so much to think about the design) to decide to use 75 mm m4 screws as guide for the springs. The springs are connected to the two freely rotating peices in the picture below, which both rotate to stay parallel when the pedal is compressed.
+
+![inter screenshot](images/rotating_guides.png)
+
+Took me a while to figure out how this would all work IRL, including my choice to use some m4 heat set inserts for certain parts (specifically to connect the 3d prints to the aluminum). 
+
+Overall, I am really happy with the results, I got them on the kart and they look sick! May work some more on them but probably not, only once I physically make the v1 of them. Lapse is below.
+
+https://lapse.hackclub.com/timelapse/eIQ8M-vF9ZqJ
+
+
+![inter screenshot](images/nice_picture.png)
+
+**Total time spent: 1 hour 30 minutes**
+
 
 
 
