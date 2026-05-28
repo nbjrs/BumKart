@@ -180,6 +180,29 @@ Cool screw gen I made (see onshape and I may make it avaliable but it is only tw
 
 **Total time spent: 31 minutes**
 
+# May 27: Some more school stuff + Brake Start!
+
+This session started where I realized some issues with interference again. I realized that there was slight interference with the screws in the CAD but more importantly I wanted to adress my ever growing nag that the steering axle wasn't aligned! I couldn't figure out why as I had rechecked the CAD at least 2-3 times, and found that the fasten mate just wasn't properly done for the front mount. I fixed it and then the drive shaft was actually aligned! Horray! After a ton of delay I finnaly started the process of making the pedals! I was taking inspiration from a spring-compression based pedal for sim racing, and due to the fact that the motor will have little to no resistance inherintley as this is a gokart with hobby parts, I wanted to make a nice sleak design that is fun to use. My design process was as follows.
+
+1) I started with a reference box-tube, same as previous parts. I modeled around it to make it accurate and usable on the real kart
+2) I then started to plan how I wanted the spacing to work, where the actual pivot would go for the brake pedal and where the guide for the brake compression would go (idea based on the sideview picture I was blessed with in a previous session)
+3) From there I made aluminum 1/8 plates for support, and placed holes for furhter reinforcement of the main bulk (the 3d print)
+
+After finishing up and making the pedal outline/aluinum and 3d print parts I ended this session. Overall some good progress and the pedals are gonna be a huge effort to make work, even in CAD. They seem fun and already look nice though so I'm hyped!
+
+https://lapse.hackclub.com/timelapse/ZvHaCkugiypZ
+
+![inter screenshot](images/line_up.png)
+
+Steering axle lines up with the base, AMAZE AMAZE!
+
+![fixed screenshot](images/pedal_start.png)
+
+Incomplete pedal design from this session.
+
+**Total time spent: 41 minutes**
+
+
 
 
 
