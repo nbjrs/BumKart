@@ -224,6 +224,16 @@ https://lapse.hackclub.com/timelapse/eIQ8M-vF9ZqJ
 ![inter screenshot](images/nice_picture.png)
 
 **Total time spent: 1 hour 30 minutes**
+# May 28: Short Log (discussion with coach again/some design choices)
+
+No lapse today so I am keeping the hours very short (max 30 minutes). Mainly today I talked to my robotics coach about the brake system I developed yesterday and he said it was cool and he would help me make some prototypes soon! I fixed one of the CAD problems, which was that the pedals don't have a front blocking mechanism to make sure they don't just swing all the way forwards, and I fixed that pretty quickly by extending the plates and also making a 3d printed spacer. I researched as well into what screws I will use for the brakes (75 mm m4 socket head) and what material I will use for the first prototype (acrylic and 3d prints mostly, acrylic for all the pannels or maybe some polycarb, depends what scrap we have at my schools machine shop. Will possibly design later tonight, depends on how I'm feeling as I had a pretty long day. Big progress incoming, I still need to brainstorm how tf I'm gonna make a custom seat LMAO.
+
+
+![guides screenshot](images/adjusted_guides.png)
+
+In this picture I adjusted my pedal guides to be slighty further to be able to use better springs (in image below) that are cheaper and also way more availiable. Also adjusted the diameter of the 3d printed spring holding parts (seen around the screws) to match the OD of the springs (5.8 mm for the 3d prints for the 6 mm diameter of the springs for some clearance. 
+
+**Total time spent: 30 minutes**
 
 
 
