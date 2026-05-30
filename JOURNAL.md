@@ -235,6 +235,22 @@ In this picture I adjusted my pedal guides to be slighty further to be able to u
 
 **Total time spent: 30 minutes**
 
+# May 28: Short Lapse/design 
+
+Again I was pretty stupid with my lapse timing. It is a 37 minute lapse but I actually worked for around 50 as I spent ~15 or 20 minutes working on the wheel mount which I have pictures of. Didn't get to too much today but that is because I am planning a HUGE session tmrw, where I am gonna do some 3d printing (hopefully) and also design out the full seat. Mainly today I realized the mahoraga wheel is far too large and I will have to shrink it, and thought to myself about if I want a detachable wheel mount because I already am making a custom 3d printed one? I watched some videos about how real race car detachable wheels work so maybe I can try to design my own, we will see after I make this seat. Some other good news is that I possibly found SUPER cheap steel tube on facebook marketplace for like 35$, which was not in the lapse but I was doing some research earlier today (too small to log imo and too spread out). Anyways nice kinda two day break but the grind is back tmrw, 20 hrs before the weekend is over maybe? 
+
+![mount screenshot](images/wheel_mount.png) 
+
+(image of wheel mount)
+
+For this lapse, I mainly just worked on creating a more ergonomic wheel as I want one that is nice and comfortable, but was continiously debating on if I could make one because my coach is very hesitant about cutting me any aluminum (it is a little late in the year). Here is what I am at rn will finish it up tmrw.
+
+![wheel screenshot](images/ergo_wheel.png) 
+
+https://lapse.hackclub.com/timelapse/OdwekWxnjPEh
+
+**Total time spent: 50 minutes**
+
 
 
 
