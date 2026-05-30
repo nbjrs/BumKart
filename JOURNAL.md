@@ -243,6 +243,10 @@ Again I was pretty stupid with my lapse timing. It is a 37 minute lapse but I ac
 
 (image of wheel mount)
 
+![raga screenshot](images/raga_scale.png) 
+
+Absolute ridiculous size of the mahoraga wheel (yeah ts is NOT working as it is rn)
+
 For this lapse, I mainly just worked on creating a more ergonomic wheel as I want one that is nice and comfortable, but was continiously debating on if I could make one because my coach is very hesitant about cutting me any aluminum (it is a little late in the year). Here is what I am at rn will finish it up tmrw.
 
 ![wheel screenshot](images/ergo_wheel.png) 
