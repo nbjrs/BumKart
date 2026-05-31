@@ -235,7 +235,7 @@ In this picture I adjusted my pedal guides to be slighty further to be able to u
 
 **Total time spent: 30 minutes**
 
-# May 28: Short Lapse/design 
+# May 29: Short Lapse/design 
 
 Again I was pretty stupid with my lapse timing. It is a 37 minute lapse but I actually worked for around 50 as I spent ~15 or 20 minutes working on the wheel mount which I have pictures of. Didn't get to too much today but that is because I am planning a HUGE session tmrw, where I am gonna do some 3d printing (hopefully) and also design out the full seat. Mainly today I realized the mahoraga wheel is far too large and I will have to shrink it, and thought to myself about if I want a detachable wheel mount because I already am making a custom 3d printed one? I watched some videos about how real race car detachable wheels work so maybe I can try to design my own, we will see after I make this seat. Some other good news is that I possibly found SUPER cheap steel tube on facebook marketplace for like 35$, which was not in the lapse but I was doing some research earlier today (too small to log imo and too spread out). Anyways nice kinda two day break but the grind is back tmrw, 20 hrs before the weekend is over maybe? 
 
@@ -255,7 +255,39 @@ https://lapse.hackclub.com/timelapse/OdwekWxnjPEh
 
 **Total time spent: 50 minutes**
 
+# May 30: Wheel+QUICK SWAP?????
+
+Wow so I had the awesome idea of doing this stupid design when I thought, "how cool would it be to make this wheel hotswapable for like 0 reason?" I actually did have a few reasons for this design choice. The first was because a friend said it would look sick, but the main reason why is due to my want for a mahoraga wheel/ different wheels. Quick swapping in racecars has always seemed to be SUPER satisfying to me and once I saw a design that I somewhat could break down I thought it would be awesome to make one! Most desings imo are far too complex and require advanced machining to acheive, but when I just saw two spring-loaded latches I thought I could do this. The start of this log was mainly just me going through the process of finishing up my ergonmoc wheel. I did some cool stuff with lofts to make the inside look nicer and I also made pockets where fingers could fit based on the reference photos of real racing wheels. The wheel is 12.75 inches in diameter and is pretty standard. Due to the fact I am using tierods not rack and pinion steering the amount of steering I need to do is much more minimal therefore not having a fully circular wheel is fine.
+
+![mount screenshot](images/ergo_wheel_pockets.png) 
+
+(image of wheel with pockets)
+
+Aftering coloring/finalizing the wheel, I fixed up the mounting for the grips to make them attachable through screws. After some thinking, I realized that the mounting I had at that moment (heat set inserts to 3 m4 screws) really wasn't going to cut it when I was swinging the wheel around and if it ever came off that would be an absolute nigthmare. I decided to start researching into quick-swapping racing wheels and after seeing all the ultra complex internal mechanisms came across the awesome one I decided to take inspiration from. Even though I did sit around for 10 minutes it was worth it, as I started from their desiging the mount. It is mainly comprised of two parts, the spring guide and the screw that rests on it. A spring is consrtained by a plate and the spring guide, and when the guide is pulled the spring is compressed against those two surfaces.
 
 
+![compression screenshot](images/compression_picture.png) 
 
+Above is a crossection of the mechanism. When the latch is pulled, the spring is compressed and the screw comes out. The assembly will be first the guide, then the spring, then the plate, then the latch will be screwed on as it has a m4 nut slot. 
 
+I am very proud of this mechanism as it is pretty advanced to be only made of 3d prints and should work really well.
+
+After fully assembling it, I added it to the assembly and added all the screws/nuts to make it as accurate as possible. It looks awesome and seems super easy to access from the back. Excited for next steps! Lapse is below.
+
+https://lapse.hackclub.com/timelapse/OkKwbgydneng
+
+**Total time spent: 2 hours 8 minutes**
+
+# May 30: Seat Start
+
+This lapse, though shorter, did have a lot of empty moments. I am starting with that to adress that I took these breaks because I had to brainstorm A LOT into how this mechanism I wanted to make would work. I am writing this log now and I am STILL not happy with my idea, and I am trying to come up with a better one in the meantime. The problem is that I want to be able to have my seat be adjustable, as I will have people of different heights using my gokart in the future. I started this lapse with some brainstorming and researching into current seat adjustment systems, mainly in cars. I couldn't find a detailed approach or breakdown of how they work, and then I spent time trying to brainstorm. My first thought was about using a simmilar bar I could raise that would be spring loaded (maybe tension not compresion as I lift it upwards?) that at the end has circular rods on each side that slide into a specific hole. These holes are part of a vertical line of holes that stretch forwards and the chair could be moved to fit into any of those holes. My main issue with that was using 3d prints for the circular parts as they would 100% break. My second idea was A simmilar idea but instead from each side, so like you could grab handles on each side of the seat and then pull them up, which would release them from holes on the side and let you move the seat forwards/backwards. That idea faces the same 3d print problem. 
+
+![rails screenshot](images/rails.png) 
+
+(image of the linear rails)
+
+I started the actual design of this by researching into mgn12 rails (i have used mgn 9 and mgn 7 before for previous projects) and use a generator to make assemble them in my main assembly. After I continued brainstorming, I came up with the current idea I have now. That is to make parts simmilar to the prongs used in gym machines to hold the weights, and have people physicaly pull those, slide their chair, and reatach them. I may make this idea spring loaded, still deciding, but this is the current approach I am taking. Only got to making the main plate/side 3d print to guide the prongs. Hopefully will get this part done on sunday. 
+
+https://lapse.hackclub.com/timelapse/9bawplfAnLST
+
+**Total time spent: 54 minutes**
