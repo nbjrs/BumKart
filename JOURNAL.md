@@ -291,3 +291,12 @@ I started the actual design of this by researching into mgn12 rails (i have used
 https://lapse.hackclub.com/timelapse/9bawplfAnLST
 
 **Total time spent: 54 minutes**
+
+# May 31: RESEARCH!!!
+
+No lapse for this and short journal entry as their isn't much to talk about. I did some reserach on how to make fiberglass stuff and realized this may not be the best for this project BUT I still may try!!!! I am really trying to balance cost of future mechanisms (which I want to add) with the cost of actually making a basic kart with funding. Fiberglass stuff is pretty expensive so not sure yet. Was a 40 minute video but only logging like 20 minutes cause I feel like watching videos is not really full work on the project.
+
+![fiber screenshot](images/fiber_ss.png) 
+
+**Total time spent: 20 minutes**
+
