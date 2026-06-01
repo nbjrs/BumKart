@@ -259,7 +259,7 @@ https://lapse.hackclub.com/timelapse/OdwekWxnjPEh
 
 Wow so I had the awesome idea of doing this stupid design when I thought, "how cool would it be to make this wheel hotswapable for like 0 reason?" I actually did have a few reasons for this design choice. The first was because a friend said it would look sick, but the main reason why is due to my want for a mahoraga wheel/ different wheels. Quick swapping in racecars has always seemed to be SUPER satisfying to me and once I saw a design that I somewhat could break down I thought it would be awesome to make one! Most desings imo are far too complex and require advanced machining to acheive, but when I just saw two spring-loaded latches I thought I could do this. The start of this log was mainly just me going through the process of finishing up my ergonmoc wheel. I did some cool stuff with lofts to make the inside look nicer and I also made pockets where fingers could fit based on the reference photos of real racing wheels. The wheel is 12.75 inches in diameter and is pretty standard. Due to the fact I am using tierods not rack and pinion steering the amount of steering I need to do is much more minimal therefore not having a fully circular wheel is fine.
 
-![mount screenshot](images/ergo_wheel_pockets.png) 
+![mount screenshot](images/ergo_wheel.png) 
 
 (image of wheel with pockets)
 
