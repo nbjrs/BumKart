@@ -299,4 +299,13 @@ No lapse for this and short journal entry as their isn't much to talk about. I d
 ![fiber screenshot](images/fiber_ss.png) 
 
 **Total time spent: 20 minutes**
+# June 1: Printing Pedal V1???
+
+No Lapse again but keeping it even smaller, I had a lot of projects due today and only got the time to run a 3d print for the pedal. Using PLA for the base model and going to print out some fun stuff tmrw! Planning to cut a lot of acrylic and test it all out. This was a super short journal and not much got done except for this, I also found my heat set inserts in my basement! Tmrw is grind time as all those projects are over and sorry for fluff journals. 
+
+![fiber screenshot](images/pedal_prints.jpg) 
+
+**Total time spent: 10 minutes**
+
+
 
