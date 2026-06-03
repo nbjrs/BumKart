@@ -323,6 +323,21 @@ Planning to make a 2nd wheel type as I got this comment from Madhav, and thinkin
 reviewers when they see 3 days of 0 lapses and like 50 minutes spent total (tbh I have spent more time overall but lack of proof may be annoying)
 
 **Total time spent: 15 minutes**
+# June 3: Logging at Prom????
+
+I AM LITERALLY LOGGING AT PROM THE STREAM SHALL NOT BE BROKEN. I was watching a 15 minute video from rctestflight on the drive.
+It is reallh useful for building large stuff, especially for this gokart! Stay tuned for awesome
+stuff hopefullh tmrw
+
+![prom screenshot](images/prom.jpg) 
+
+![testflight screenshot](images/testflight.jpg)
+
+
+
+**Total time spent: 15 minutes**
+
+
 
 
 
