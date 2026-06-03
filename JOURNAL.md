@@ -306,6 +306,23 @@ No Lapse again but keeping it even smaller, I had a lot of projects due today an
 ![fiber screenshot](images/pedal_prints.jpg) 
 
 **Total time spent: 10 minutes**
+# June 2: School Sucks (Another short research log)
+
+Ok ANOTHER LACK OF A LAPSE THIS IS BAD, but I am keeping these no lapse logs to an absolute minimum so I feel they hopefully won't be deflated, and even if they are I can take a 1 hr total deflation lmao. Main stuff done in this short log! I worked on researching exactly how I can get the square beams, along with some filament choices for the main 3d prints!
+
+![esun screenshot](images/esun+.jpg) 
+
+Ik that hackclub reimburses filament but it can be expensive sometimes either way so I am planning to use this esun ABS as ABS is pretty good with dealing with environmental conditions, even if the print quality is worse sometimes and it takes longer. For the steel beams, I MAY HAVE FOUND A BREAKTHROUGH!!!!! I discovered a FB marketplace listing for like 35$ for 20 ft of 1 in square beam (can't add picture cause I don't rlly want to self-dox) but it is pretty sick! I am going to give them a call tmrw or maybe thursday to see how that will work. Hopefully HC can reimburse FB marketplace stuff? We will see because that isn't too expensive. 
+
+I have also been brainstorming a lil about some ideas, specifically front axle suspension as it may be cool but also VERY complex. I have all of next week off (have no finals for me) and have MANY MANY HOURS of build and lock in time. Hopefully later this week as well, my very locked in progression has slowed due to those projects and now some other things I had to deal with. Still hyped and trying my hardest to find a suitaible seat (If I end up making a fiber glass one I am finished LMAO). 
+
+Planning to make a 2nd wheel type as I got this comment from Madhav, and thinking about just making a classic gokart round wheel not a performance wheel. 
+
+![comment screenshot](images/madhav.jpg) 
+
+reviewers when they see 3 days of 0 lapses and like 50 minutes spent total (tbh I have spent more time overall but lack of proof may be annoying)
+
+**Total time spent: 15 minutes**
 
 
 
