@@ -336,6 +336,16 @@ stuff hopefullh tmrw
 
 
 **Total time spent: 15 minutes**
+# June 4: post prom tired
+
+So tired, woke up at like 2 pm. Did very little today but I did find a fully 3d printed gokart! I am
+using this as reference for all the 3d prints i am going to make for the kart. Hopefully can ACTUALLY design tommorow but we will see. Last real week of school so i see the streak incoming ✌️.
+
+![gokart screenshot](images/3dprintedgokart.jpg) 
+
+
+
+**Total time spent: 5 minutes**
 
 
 
