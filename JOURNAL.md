@@ -329,7 +329,7 @@ I AM LITERALLY LOGGING AT PROM THE STREAM SHALL NOT BE BROKEN. I was watching a 
 It is reallh useful for building large stuff, especially for this gokart! Stay tuned for awesome
 stuff hopefullh tmrw
 
-![prom screenshot](images/prom.jpg) 
+![prom screenshot](images/prom.png) 
 
 ![testflight screenshot](images/testflight.jpg)
 
