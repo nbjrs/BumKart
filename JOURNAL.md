@@ -343,9 +343,16 @@ using this as reference for all the 3d prints i am going to make for the kart. H
 
 ![gokart screenshot](images/3dprintedgokart.png) 
 
-
-
 **Total time spent: 5 minutes**
+# June 5: simmilar log day sadly :(
+
+Not as tired today but WAY too much going on. Had a full day out with friends so all I had time to do was watch a video on the bus, about another guy who made a 3d printed gokart (made before the guy I watched yesterday). This was really cool as it was almost fully 3d printed and was very informative on not so much MY gokart but how overall electric gokarts can work/be built. It did inspire me on how he effectivley printed the side parts for the gokarts so that was useful. 
+
+**For future reviewers, I AM TRYING MY HARDEST TO SELF DEFLATE HERE! It was a 20 minute video and I am logging 10 as I feel that it was not 100% time well spent towards this. I really hope you see this when reviewing as I know this week has a decent likleyhood to get somewhat deflated as each log was short, no lapse, and no real progress. I have been researching though and really trying to finalize my plan of action for next week. THANK YOU FOR YOUR WORK AS WELL!!!!**
+
+![gokart screenshot](images/3dprintedgokart2.png) 
+
+**Total time spent: 10 minutes**
 
 
 
