@@ -354,6 +354,18 @@ Not as tired today but WAY too much going on. Had a full day out with friends so
 
 **Total time spent: 10 minutes**
 
+# June 6: DESIGNED SOMETHING for 8 minutes :(
+
+Again pretty busy day but yk what I did do? I designed something! PROGRESS!!!! Work incoming but this was something, made a more round wheel may 3d print may also try to get some leather to glue onto it??? We will see depends on how I am feeling. Quick lapse below but I REALLY need to plan next week ong.
+
+
+![basicwheel screenshot](images/basic_wheel.png) 
+
+LAPSE!!!! = https://lapse.hackclub.com/timelapse/gKF-z6tvJnq9
+
+**Total time spent: 8 minutes**
+
+
 
 
 
