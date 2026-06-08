@@ -364,7 +364,21 @@ Again pretty busy day but yk what I did do? I designed something! PROGRESS!!!! W
 LAPSE!!!! = https://lapse.hackclub.com/timelapse/gKF-z6tvJnq9
 
 **Total time spent: 8 minutes**
+# June 7: Research/Plan time
 
+Busy day but the gokart is approaching very rapidly. I sat down and really thought about the gokart. I am deciding to make it much more complex. I don't got the time this moment to explain so instead I am linking the canvases I made on slack for the brainstorming! Will add more text here later.
+
+![research TODO screenshot](images/todo.png) 
+
+
+https://hackclub.enterprise.slack.com/docs/T0266FRGM/F0B8QTW2DC3
+https://hackclub.enterprise.slack.com/docs/T0266FRGM/F0B8VC2NCHL
+https://hackclub.enterprise.slack.com/docs/T0266FRGM/F0B8VCFBS3Y
+
+
+LAPSE!!!! = https://lapse.hackclub.com/timelapse/Vdo5DpmQmMoh
+
+**Total time spent: 54 minutes**
 
 
 
